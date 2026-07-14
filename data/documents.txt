@@ -1,0 +1,19 @@
+Artificial Intelligence (AI) is the broader field of computer science focused on building systems that can perform tasks which normally require human intelligence, such as understanding language, recognizing patterns, making decisions, and solving problems. AI systems range from simple rule-based programs to complex neural networks capable of learning from data.
+
+Machine Learning (ML) is a subset of AI in which systems learn patterns from data instead of being explicitly programmed with rules. Common types of machine learning include supervised learning, unsupervised learning, and reinforcement learning. ML models improve their performance as they are exposed to more relevant data.
+
+Deep Learning is a subset of machine learning based on artificial neural networks with multiple layers. These layers allow deep learning models to automatically learn hierarchical representations of data, which is why deep learning powers modern advances in image recognition, speech recognition, and natural language processing.
+
+Python is a high-level, general-purpose programming language known for its readability and simplicity. It has become the dominant language for AI and data science work because of its extensive ecosystem of libraries, including NumPy, pandas, scikit-learn, PyTorch, and TensorFlow.
+
+RAG (Retrieval-Augmented Generation) is a technique that combines a retrieval system with a language model. Instead of relying only on knowledge learned during training, a RAG system first retrieves relevant documents or passages from an external knowledge source and then uses that retrieved context to generate a more accurate and grounded response.
+
+Vector Databases are specialized databases designed to store and search high-dimensional vector embeddings efficiently. They are commonly used in RAG pipelines and semantic search applications, allowing systems to find the most similar pieces of text or data based on meaning rather than exact keyword matches.
+
+Cloud Computing refers to the on-demand delivery of computing resources, such as servers, storage, databases, and networking, over the internet. Cloud platforms like AWS, Google Cloud, and Microsoft Azure allow developers to build and scale AI applications without managing physical hardware.
+
+Function Calling is a capability of modern large language models that allows them to identify when an external tool or function should be used to fulfill a request, and to generate structured arguments for that function. The LLM does not execute the function itself; instead, the surrounding application code executes the function and returns the result back to the model, which then produces a final response using that information.
+
+SQLite is a lightweight, file-based relational database engine that does not require a separate server process. Because the entire database is stored in a single file, SQLite is popular for small applications, prototypes, and embedded systems where simplicity and portability matter more than large-scale concurrency.
+
+Software Engineering is the discipline of designing, developing, testing, and maintaining software systems using systematic and structured approaches. It emphasizes practices such as modular design, version control, testing, and documentation to build software that is reliable, maintainable, and scalable over time.
