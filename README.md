@@ -1,8 +1,7 @@
 # T18 – ReAct Agent 🔁🧠
 
 A from-scratch implementation of the **ReAct pattern** (Reasoning + Acting, [Yao et al., 2022](https://arxiv.org/abs/2210.03629)) built on the Google Gemini API — no LangChain, no agent framework, just an explicit prompt loop you can read line by line.
-
-> Part of the **Month 2 – Week 7: Agents & Tool Use** internship deliverables. Follows on from [Task 17 (Function Calling Deep Dive)](../T17_Function_Calling_Deep_Dive).
+.
 
 ---
 
@@ -97,7 +96,7 @@ T18_ReAct_Agent/
 ## Quick Start
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/shantanusharma404/ReAct-Agent.git)
 cd T18_ReAct_Agent
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
@@ -152,4 +151,4 @@ See **[DOCUMENTATION.md](DOCUMENTATION.md)** for a full worked example trace and
 ## Author
 
 **Shantanu Sharma**
-B.Tech Computer Science & Design · AI Engineering Internship · Month 2 – Week 7 · Task 18
+B.Tech Computer Science & Design · AI Engineering Internship · Month 2 – Week 6 · Task 18
